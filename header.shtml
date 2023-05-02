@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<header>
+  <a href="/Home.html"><img src="/img/BrandLogo.png" height="100px" alt="brand logo" /></a>
+  <nav>
+    <ul>
+      <li>
+        <a href="/store/Wine.html">Wine</a>
+        <ul>
+        <li>
+          <a href="/store/wine.html#red_wine">Red Wine</a>
+        </li>
+        <li>
+          <a href="/store/wine.html#white_wine">White Wine</a>
+        </li>
+        <li>
+          <a href="/store/wine.html#rose_wine">Rose Wine</a>
+        </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/store/Bear.html">Bear</a>
+        <ul>
+        <li>
+          <a href="/store/Bear.html#Alt">Alt</a>
+        </li>
+        <li>
+          <a href="/store/Bear.html#Lager">Lager</a>
+        </li>
+        <li>
+          <a href="/store/Bear.html#Home_Brewing">Home Brewing</a>
+        </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/store/Liquor.html">Liquor</a>
+        <ul>
+        <li>
+          <a href="/store/Liquor.html#Whiskey">Whiskey</a>
+        </li>
+        <li>
+          <a href="/store/Liquor.html#Vodka">Vodka</a>
+        </li>
+        <li>
+          <a href="/store/Liquor.html#Rum">Rum</a>
+        </li>
+        <li>
+          <a href="/store/Liquor.html#Exclusive">Exclusive Imports</a>
+        </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/store/Cocktail.html">Our cocktails</a>
+        <ul>
+        <li>
+          <a href="/store/Cocktail.html#Martini">Martini</a>
+        </li>
+        <li>
+          <a href="/store/Cocktail.html#Margarita">Margarita</a>
+        </li>
+        <li>
+          <a href="/store/Cocktail.html#Mojito">Mojito</a>
+        </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/Blog.html">Our Blog</a>
+      </li>
+      <li>
+        <input type="search" placeholder="Search..." />
+      </li>
+      <li>
+        <a href="/Cart.html">
+          <img src="/img/cart-icon.png" height="30px" alt="cart icon" />
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<body>
+  
+</body>
+</html>

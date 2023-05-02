@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+<footer>
+  <div class="Social">
+    <h3>Social</h3>
+    <a href="/Home.html"><img src="/img/BrandLogo.png" height="70px" alt="brand logo" /></a>
+    <ul>
+      <li>
+        <a href="https://www.Facbook.com/" target="_blank"
+          ><img
+            src="https://scontent.ftlv2-1.fna.fbcdn.net/favicon.ico"
+            height="16px"
+            alt="Facbook logo"
+        /></a>
+      </li>
+      <li>
+        <a href="https://www.Twitter.com/" target="_blank"
+          ><img
+            src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_16.png"
+            height="16px"
+            alt="Twitter logo"
+        /></a>
+      </li>
+      <li>
+        <a href="https://www.pinterest.com/" target="_blank"
+          ><img
+            src="https://s.pinimg.com/webapp/favicon-56d11a6a.png"
+            height="16px"
+            alt="Pinterest logo"
+        /></a>
+      </li>
+    </ul>
+  </div>
+  <div class="support">
+    <h3>support</h3>
+    <div>
+      <ul>
+        <li><a href="/catalog.html">All Products</a></li>
+        <li><a href="/Team.html">Our Team</a></li>
+        <li><a href="/customer-service.html">Customer Service</a></li>
+        <li><a href="/shipping-policy.html">Shipping Information</a></li>
+      </ul>
+    </div>
+    <div>
+      <ul>
+        <li><a href="/return-.html">Returns</a></li>
+        <li><a href="/about.html">About us</a></li>
+        <li><a href="/privacyTerms.html">Privacy & Terms</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="info">
+    <h3>info</h3>
+    <ul>
+      <li><address>jaffo 51, Jerusalem, IL, 456798</address></li>
+      <li><a href="tel:+972123456798">+972-123456798</a></li>
+      <li><a href="mailto:services@WorldWine.com">services@WorldWine.com</a></li>
+    </ul>
+  </div>
+  <div><p>&copy; made by S. Weisman 2024</p></div>
+</footer>
+</html>
